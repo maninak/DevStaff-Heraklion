@@ -30,7 +30,7 @@ For a local offline wallet, consider https://electrum.org/
 In the old days, you would mine for your own bitcoins. 
 
 These days, you can buy bitcoins in online exchanges (take a look at https://www.coinbase.com[Coinbase], as one of the most "user friendly" - 
-but not perfect) and you can even find special bitcoin ATMs. 
+but not perfect) and you can even https://coinatmradar.com/[find special bitcoin ATMs]. 
 
 == How do I spend Bitcoins?
 
